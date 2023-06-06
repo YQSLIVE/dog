@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdog"]=self["webpackChunkdog"]||[]).push([[443],{6521:function(u,n,t){t.r(n),t.d(n,{default:function(){return c}});var l=function(){var u=this,n=u._self._c;return n("div",{staticClass:"about"})},s=[],e=t(1001),r={},a=(0,e.Z)(r,l,s,!1,null,null,null),c=a.exports}}]);
+//# sourceMappingURL=about.a2f7bbdb.js.map
